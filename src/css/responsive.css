@@ -83,11 +83,11 @@
         width: 100%;
     }
 
-    .cabecalho nave ul li {
+    .cabecalho nav ul li {
         display: block;
     }
 
-    .cabecalho nave ul li a {
+    .cabecalho nav ul li a {
         width: 100%;
         display: block;
     }
@@ -105,7 +105,7 @@
     }
 }
 
-@media (max-width: 325px) {
+@media (max-width: 375px) {
 
     .ladrilho .pequeno,
     .ladrilho .pequeno.grao {
